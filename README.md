@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pavankumar6174q
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pavankumar6174q@gmail.com
 
 <!---
