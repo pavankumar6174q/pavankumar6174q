@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pavankumar6174q
-- 👀 I’m interested in ...data science
+- 👋 Hi, I’m @pavankumar
+- 👀 I’m interested in ...data analyst
 - 🌱 I’m currently learning ...python
 - 📫 How to reach me ...pavankumar2659q@gmail.com
 
